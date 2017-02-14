@@ -1,0 +1,7 @@
+*.run.xml
+*.synctex.gz
+*.tex
+*.bib
+*.tex
+*.log
+*.swp

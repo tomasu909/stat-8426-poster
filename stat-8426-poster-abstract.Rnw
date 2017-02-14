@@ -1,0 +1,23 @@
+\documentclass{article}
+
+%\usepackage[margin=1in]{geometry}   % set up margins
+\usepackage[vmargin=1in,hmargin=1in]{geometry}
+\usepackage{tikz}
+\usepackage{booktabs}
+
+\usepackage[backend=bibtex]{biblatex}
+
+\begin{document}
+
+\title {Analysing Correlation in Locomotive Sensors and Fuel Consumption}
+\author{Brian Detweiler \\ Thomas Flaherty \\ Paul Kavan \\ Nathan Kruse}
+
+\maketitle
+
+\begin{abstract}
+
+Locomotives have several sensor devices that gather massive amounts of data. Three of these sensors are the Event Recorder (ER), the Wattmeter, and the Fuel Gauge. The data are broken down by crew trip and locomotive. What is the correlation between each of these sensors, and which of these have the highest fidelity of data? We aim to find the correltation, fidelity, and confidence intervals in the data and provide a dashboard for future analysis and decision making. 
+
+\end{abstract}
+
+\end{document}
