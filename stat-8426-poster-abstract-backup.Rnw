@@ -1,0 +1,23 @@
+\documentclass{article}
+
+%\usepackage[margin=1in]{geometry}   % set up margins
+\usepackage[vmargin=1in,hmargin=1in]{geometry}
+\usepackage{tikz}
+\usepackage{booktabs}
+
+\usepackage[backend=bibtex]{biblatex}
+
+\begin{document}
+
+\title {Analysing Correlation in Locomotive Sensors and Fuel Consumption}
+\author{Brian Detweiler \\ Thomas Flaherty \\ Paul Kavan \\ Nathan Kruse}
+
+\maketitle
+
+\begin{abstract}
+
+Croudfunding websites have exploded in popularity since their beginnings in the late 2000s. Two of the most popular are Kickstarter and IndiGoGo. The platforms allow people to raise venture capital for a project from individual contributors in exchange for various levels of rewards. These projects are not without risks, and many do in fact fail. We examine a year of IndiGoGo data and nearly three years of Kickstarter data in an effort to determine the risk-reward proposition of these platforms. We provide the results to consumers to help drive decision making when considering lending support to a particular campaign.
+
+\end{abstract}
+
+\end{document}
