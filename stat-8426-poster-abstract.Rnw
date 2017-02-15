@@ -9,14 +9,14 @@
 
 \begin{document}
 
-\title {Analysing Correlation in Locomotive Sensors and Fuel Consumption}
+\title {Analyzing Visiting Nurse Association Data provided by Nebraska Applied Research Institute}
 \author{Brian Detweiler \\ Thomas Flaherty \\ Paul Kavan \\ Nathan Kruse}
 
 \maketitle
 
 \begin{abstract}
 
-Locomotives have several sensor devices that gather massive amounts of data. Three of these sensors are the Event Recorder (ER), the Wattmeter, and the Fuel Gauge. The data are broken down by crew trip and locomotive. What is the correlation between each of these sensors, and which of these have the highest fidelity of data? We aim to find the correltation, fidelity, and confidence intervals in the data and provide a dashboard for future analysis and decision making. 
+The Visiting Nurse Association is testing a product called TINE tag, to see if the product improves nurses’ documentation. The tags come with custom QR codes, allowing users to scan the code with a smartphone, and watch a short training video. The video includes important instructions on how to perform documentation effectively. We will examine the results from the nurses who have watched the video and compare them to the nurses who have not. We will also look to determine what other variables effect the patients during their care. We aim to help healthcare administrators make policy decisions about the TINE tag product.
 
 \end{abstract}
 
